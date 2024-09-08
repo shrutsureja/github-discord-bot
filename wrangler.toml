@@ -1,0 +1,11 @@
+name = "github-discord-bot"
+compatibility_date = "2024-09-08"
+
+# Uncomment this vars before DEPLOYMENT and assign the proper values
+# [vars]
+# GITHUB_WEBHOOK_SECRET=""
+# DISCORD_WEBHOOK_URL=""
+
+# [[kv_namespaces]]
+# binding = "data"
+# id = "xxxxxxxxxxxxxxxxxxxxxx"
